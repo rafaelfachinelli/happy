@@ -76,9 +76,6 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
   <kbd>
     <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Happy Ferraz" src="./.github/demo-desk-study.gif">
   </kbd> 
-  <kbd>
-    <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-desk-give-classes.gif">
-  </kbd>
 </p>
 
 <p align="center"><b> :iphone: WEB MOBILE </b></p>

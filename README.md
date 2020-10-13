@@ -34,13 +34,28 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 <div align="center">
 <details>
 <summary>Clique para Visualizar</summary>
+	
+<details>
+<summary>WEB Responsivo</summary>
 
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
+|:heavy_check_mark:|:computer:        |Criar estrutura do projeto web com React|
 |:heavy_check_mark:|:computer:        |Estruturar página inicial|
 |:heavy_check_mark:|:computer:        |Estilizar página inicial|
 |:heavy_check_mark:|:computer:        |Estruturar página de busca no mapa|
-|:heavy_check_mark:|:computer:        |Estilizar página de busca|
+|:heavy_check_mark:|:computer:        |Estilizar página de busca no mapa|
+|:heavy_check_mark:|:computer:        |Criar rotas no React|
+
+</details>
+
+<details>
+<summary>Servidor</summary>
+</details>
+
+<details>
+<summary>Aplicativo</summary>
+</details>
 
 </details>
 </div>

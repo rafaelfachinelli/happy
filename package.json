@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-icons": "^3.11.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.1.6"
+  }
+}

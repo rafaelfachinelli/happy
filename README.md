@@ -130,6 +130,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |[React Router DOM](https://reactrouter.com/web/guides/quick-start)|||
 |[React Icons](https://react-icons.github.io/react-icons/)|||
 |[Leaflet](https://leafletjs.com)|||
+|[React Leaflet](https://react-leaflet.js.org)|||
 
 </div>
 

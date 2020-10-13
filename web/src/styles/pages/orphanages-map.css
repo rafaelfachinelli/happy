@@ -37,6 +37,10 @@
   font-weight: 800;
 }
 
+#page-map .leaflet-container {
+  z-index: 5;
+}
+
 #page-map .create-orphanage {
   width: 64px;
   height: 64px;
@@ -47,6 +51,7 @@
   right: 40px;
   bottom: 40px;
   transition: background-color .2s;
+  z-index: 10;
 
   background: #15c3d6;
   border-radius: 20px;

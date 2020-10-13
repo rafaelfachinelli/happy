@@ -51,6 +51,11 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 
 <details>
 <summary>Servidor</summary>
+
+|      Estado      |     Plataforma   |     Tarefa    |
+|      :---:       |       :---:      |      :---     |
+|:x:               |:computer:        |Criar estrutura do servidor com Node.js|
+
 </details>
 
 <details>

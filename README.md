@@ -55,6 +55,15 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
 |:x:               |:computer:        |Criar estrutura do servidor com Node.js|
+|:x:               |:computer:        |Organizando rotas e parâmetros|
+|:x:               |:computer:        |Criando tabelas no banco de dados|
+|:x:               |:computer:        |Cadastro de orfanatos implementado|
+|:x:               |:computer:        |Configurando controller|
+|:x:               |:computer:        |Listagem de orfanatos|
+|:x:               |:computer:        |Upload de imagens|
+|:x:               |:computer:        |Desenvolvendo views|
+|:x:               |:computer:        |Tratamento de excessões|
+|:x:               |:computer:        |Validação de dados|
 
 </details>
 

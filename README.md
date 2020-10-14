@@ -128,8 +128,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 |WEB Responsivo|Servidor|Aplicativo|
 |:---:|:---:|:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|||
-|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|||
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[Node.js]()||
+|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|[Express]()||
 |[Typescript](https://www.typescriptlang.org)	|||
 |[ReactJS](https://pt-br.reactjs.org)|||
 |[React Router DOM](https://reactrouter.com/web/guides/quick-start)|||

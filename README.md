@@ -139,7 +139,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |:---:|:---:|:---:|
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[Node.js]()||
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|[Express]()||
-|[Typescript](https://www.typescriptlang.org)	|||
+|[Typescript](https://www.typescriptlang.org)	|[SQLite3]()||
 |[ReactJS](https://pt-br.reactjs.org)|||
 |[React Router DOM](https://reactrouter.com/web/guides/quick-start)|||
 |[React Icons](https://react-icons.github.io/react-icons/)|||

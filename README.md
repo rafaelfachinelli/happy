@@ -78,7 +78,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 ## :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	👨‍🏫 Em desenvolvimento !
+	👨‍🏫 Em desenvolvimento...
 </h4>
 
 ---

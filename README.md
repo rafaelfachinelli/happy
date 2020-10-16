@@ -167,7 +167,7 @@ $ yarn dev
 
 > ⚠️ O servidor iniciará na porta:3333 - Acesse <http://localhost:3333>
 
-> ⚠️ O Banco de Dados fica salvo em [`server/src/database/database.sqlite`](src/database/database.sqlite)
+> ⚠️ O Banco de Dados fica salvo em [`server/src/database/database.sqlite`](server/src/database/database.sqlite)
 
 ---
 ## :hammer: **Tecnologias**

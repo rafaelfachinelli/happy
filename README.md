@@ -38,21 +38,21 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 <details>
 <summary>WEB Responsivo</summary>
 
-|      Estado      |     Plataforma   |     Tarefa    |
-|      :---:       |       :---:      |      :---     |
-|:heavy_check_mark:|:computer:        |Criar estrutura do projeto web com React|
-|:heavy_check_mark:|:computer:        |Estruturar página inicial|
-|:heavy_check_mark:|:computer:        |Estilizar página inicial|
-|:heavy_check_mark:|:computer:        |Estruturar página de busca no mapa|
-|:heavy_check_mark:|:computer:        |Estilizar página de busca no mapa|
-|:heavy_check_mark:|:computer:        |Criar rotas no React|
-|:heavy_check_mark:|:computer:        |Finalizar página de busca no mapa|
-|:heavy_check_mark:|:computer:        |Criar navegação entre páginas|
-|:heavy_check_mark:|:computer:        |Abstrair componentes|
-|:heavy_check_mark:|:computer:        |Conectar plataforma web com servidor|
-|:heavy_check_mark:|:computer:        |Listar orfanatos no mapa|
-|:heavy_check_mark:|:computer:        |Apresentação dos detalhes do orfanato|
-|:heavy_check_mark:|:computer:        |Criação de orfanato|
+|      Estado      |     Tarefa    |
+|      :---:       |      :---     |
+|:heavy_check_mark:|Criar estrutura do projeto web com React|
+|:heavy_check_mark:|Estruturar página inicial|
+|:heavy_check_mark:|Estilizar página inicial|
+|:heavy_check_mark:|Estruturar página de busca no mapa|
+|:heavy_check_mark:|Estilizar página de busca no mapa|
+|:heavy_check_mark:|Criar rotas no React|
+|:heavy_check_mark:|Finalizar página de busca no mapa|
+|:heavy_check_mark:|Criar navegação entre páginas|
+|:heavy_check_mark:|Abstrair componentes|
+|:heavy_check_mark:|Conectar plataforma web com servidor|
+|:heavy_check_mark:|Listar orfanatos no mapa|
+|:heavy_check_mark:|Apresentação dos detalhes do orfanato|
+|:heavy_check_mark:|Criação de orfanato|
 
 </details>
 

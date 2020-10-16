@@ -46,13 +46,13 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 |:heavy_check_mark:|:computer:        |Estruturar página de busca no mapa|
 |:heavy_check_mark:|:computer:        |Estilizar página de busca no mapa|
 |:heavy_check_mark:|:computer:        |Criar rotas no React|
-|:x:		   |:computer:        |Finalizar página de busca no mapa|
-|:x:		   |:computer:        |Criar navegação entre páginas|
-|:x:		   |:computer:        |Abstrair componentes|
-|:x:		   |:computer:        |Conectar plataforma web com servidor|
-|:x:		   |:computer:        |Listar orfanatos no mapa|
-|:x:		   |:computer:        |Apresentação dos detalhes do orfanato|
-|:x:		   |:computer:        |Criação de orfanato|
+|:heavy_check_mark:|:computer:        |Finalizar página de busca no mapa|
+|:heavy_check_mark:|:computer:        |Criar navegação entre páginas|
+|:heavy_check_mark:|:computer:        |Abstrair componentes|
+|:heavy_check_mark:|:computer:        |Conectar plataforma web com servidor|
+|:heavy_check_mark:|:computer:        |Listar orfanatos no mapa|
+|:heavy_check_mark:|:computer:        |Apresentação dos detalhes do orfanato|
+|:heavy_check_mark:|:computer:        |Criação de orfanato|
 
 </details>
 

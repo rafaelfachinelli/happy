@@ -135,6 +135,40 @@ $ yarn start
 
 > ⚠️ O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
 
+### :globe_with_meridians: **Servidor**
+
+Entre na pasta [`server/`](server/) e execute os seguintes comandos:
+
+_com **npm**_
+
+```bash
+# Instalar dependências
+$ npm install
+
+# Criar banco de dados
+$ npm knex:migrate
+
+# Iniciar servidor
+$ npm start
+```
+
+_com **yarn**_
+
+```bash
+# Instalar dependências
+$ yarn
+
+# Criar banco de dados
+$ yarn typeorm run
+
+# Iniciar servidor de desenvolvimento
+$ yarn dev
+```
+
+> ⚠️ O servidor iniciará na porta:3333 - Acesse <http://localhost:3333>
+
+> ⚠️ O Banco de Dados fica salvo em [`server/src/database/database.sqlite`](src/database/database.sqlite)
+
 ---
 ## :hammer: **Tecnologias**
 
@@ -148,7 +182,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|[Express]()||
 |[Typescript](https://www.typescriptlang.org)	|[SQLite3]()||
 |[ReactJS](https://pt-br.reactjs.org)|[Yup](https://github.com/jquense/yup)||
-|[React Router DOM](https://reactrouter.com/web/guides/quick-start)|||
+|[React Router DOM](https://reactrouter.com/web/guides/quick-start)|[TypeORM](https://typeorm.io)||
 |[React Icons](https://react-icons.github.io/react-icons/)|||
 |[Leaflet](https://leafletjs.com)|||
 |[React Leaflet](https://react-leaflet.js.org)|||

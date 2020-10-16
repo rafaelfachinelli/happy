@@ -59,18 +59,18 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 <details>
 <summary>Servidor</summary>
 
-|      Estado      |     Plataforma   |     Tarefa    |
-|      :---:       |       :---:      |      :---     |
-|:heavy_check_mark:|:computer:        |Criar estrutura do servidor com Node.js|
-|:heavy_check_mark:|:computer:        |Organizando rotas e parâmetros|
-|:heavy_check_mark:|:computer:        |Criando tabelas no banco de dados|
-|:heavy_check_mark:|:computer:        |Cadastro de orfanatos implementado|
-|:heavy_check_mark:|:computer:        |Configurando controller|
-|:heavy_check_mark:|:computer:        |Listagem de orfanatos|
-|:heavy_check_mark:|:computer:        |Upload de imagens|
-|:heavy_check_mark:|:computer:        |Desenvolvendo views|
-|:heavy_check_mark:|:computer:        |Tratamento de excessões|
-|:heavy_check_mark:|:computer:        |Validação de dados|
+|      Estado      |     Tarefa    |
+|      :---:       |      :---     |
+|:heavy_check_mark:|Criar estrutura do servidor com Node.js|
+|:heavy_check_mark:|Organizando rotas e parâmetros|
+|:heavy_check_mark:|Criando tabelas no banco de dados|
+|:heavy_check_mark:|Cadastro de orfanatos implementado|
+|:heavy_check_mark:|Configurando controller|
+|:heavy_check_mark:|Listagem de orfanatos|
+|:heavy_check_mark:|Upload de imagens|
+|:heavy_check_mark:|Desenvolvendo views|
+|:heavy_check_mark:|Tratamento de excessões|
+|:heavy_check_mark:|Validação de dados|
 
 </details>
 

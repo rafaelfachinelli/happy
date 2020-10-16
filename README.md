@@ -5,12 +5,12 @@
 </div>
 
 <p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/happy?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/happy?style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/happy?style=for-the-badge&color=15B6D6">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/happy?style=for-the-badge&color=15B6D6">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/feito%20por-Rafael Fachinelli-%237519C1?style=for-the-badge">
+    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/feito%20por-Rafael Fachinelli-%15B6D6?style=for-the-badge&color=15B6D6">
   </a>
-  <img alt="Licença" src="https://img.shields.io/github/license/rafaelfachinelli/happy?style=for-the-badge"/>
+  <img alt="Licença" src="https://img.shields.io/github/license/rafaelfachinelli/happy?style=for-the-badge&color=15B6D6"/>
 <p>
 
 <p align="center">

@@ -146,10 +146,10 @@ _com **npm**_
 $ npm install
 
 # Criar banco de dados
-$ npm knex:migrate
+$ npm typeorm migration:run
 
 # Iniciar servidor
-$ npm start
+$ npm dev
 ```
 
 _com **yarn**_
@@ -159,7 +159,7 @@ _com **yarn**_
 $ yarn
 
 # Criar banco de dados
-$ yarn typeorm run
+$ yarn typeorm migration:run
 
 # Iniciar servidor de desenvolvimento
 $ yarn dev

@@ -182,8 +182,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 |WEB Responsivo|Servidor|Aplicativo|
 |:---:|:---:|:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[Node.js]()||
-|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|[Express]()||
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[Node.js]()|[React Native](https://reactnative.dev)|
+|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|[Express]()|[Expo](https://expo.io)|
 |[Typescript](https://www.typescriptlang.org)	|[SQLite3]()||
 |[ReactJS](https://pt-br.reactjs.org)|[Yup](https://github.com/jquense/yup)||
 |[React Router DOM](https://reactrouter.com/web/guides/quick-start)|[TypeORM](https://typeorm.io)||

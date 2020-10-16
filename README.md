@@ -1,4 +1,8 @@
+<div align="center">
+
 <img alt="Happy Ferraz" src="./.github/banner.png">
+
+</div>
 
 <p align="center"> 
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/happy?style=for-the-badge">

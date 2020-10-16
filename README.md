@@ -186,6 +186,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |[React Icons](https://react-icons.github.io/react-icons/)|||
 |[Leaflet](https://leafletjs.com)|||
 |[React Leaflet](https://react-leaflet.js.org)|||
+|[Axios](https://github.com/axios/axios)|||
 
 </div>
 

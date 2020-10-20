@@ -27,7 +27,7 @@
 ---
 ## :computer: Sobre
 
-...
+Plataforma web, servidor e aplicativo mobile para cadastro e busca de orfanatos na região de Ferraz de Vasconcelos, São Paulo - Brasil.
 
 Projeto desenvolvido durante a **Next Level Week#3 (NLW)** na avançada **Trilha Omnistack** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
 O NLW é uma experiência online com muito conteúdo prático e desafios com duração de uma semana para conclusão.
@@ -89,7 +89,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 ## :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	👨‍🏫 Em desenvolvimento...
+	👨‍🏫 Finalizado.
 </h4>
 
 ---

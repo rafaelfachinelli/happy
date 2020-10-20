@@ -110,7 +110,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 
 <p align="center">
   <kbd>
-    <img width="450" style="border-radius: 5px" height="250px" alt="Demonstração do Aplicativo Happy Ferraz" src="./.github/demo-desk-map.gif">
+    <img style="border-radius: 5px" width="450px" height="250px" alt="Demonstração do Aplicativo Happy Ferraz" src="./.github/demo-desk-map.gif">
   </kbd> 
 </p>
 
@@ -118,7 +118,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 
 <p align="center">
   <kbd>
-    <img width="450" style="border-radius: 5px" width="100px" height="250px" alt="Demonstração do Aplicativo Happy Ferraz" src="./.github/demo-mobile-happy.gif">
+    <img style="border-radius: 5px" width="100px" height="250px" alt="Demonstração do Aplicativo Happy Ferraz" src="./.github/demo-mobile-happy.gif">
   </kbd> 
 </p>
 

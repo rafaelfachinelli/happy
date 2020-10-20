@@ -133,7 +133,8 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 
 Entre na pasta [`web/`](web/) e execute os seguintes comandos:
 
-_com **npm**_
+<details>
+<summary><i>com <b>npm</b></i></summary>
 
 ```bash
 # Instalar dependências
@@ -143,7 +144,10 @@ $ npm install
 $ npm start
 ```
 
-_com **yarn**_
+</details>
+
+<details>
+<summary><i>com <b>yarn</b></i></summary>
 
 ```bash
 # Instalar dependências
@@ -154,13 +158,16 @@ $ yarn start
 
 ```
 
+</details>
+
 > ⚠️ O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
 
 ### :globe_with_meridians: **Servidor**
 
 Entre na pasta [`server/`](server/) e execute os seguintes comandos:
 
-_com **npm**_
+<details>
+<summary><i>com <b>npm</b></i></summary>
 
 ```bash
 # Instalar dependências
@@ -173,7 +180,10 @@ $ npm typeorm migration:run
 $ npm dev
 ```
 
-_com **yarn**_
+</details>
+
+<details>
+<summary><i>com <b>yarn</b></i></summary>
 
 ```bash
 # Instalar dependências
@@ -186,6 +196,8 @@ $ yarn typeorm migration:run
 $ yarn dev
 ```
 
+</details>
+
 > ⚠️ O servidor iniciará na porta:3333 - Acesse <http://localhost:3333>
 
 > ⚠️ O Banco de Dados fica salvo em [`server/src/database/database.sqlite`](server/src/database/database.sqlite)
@@ -194,7 +206,8 @@ $ yarn dev
 
 Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
 
-_com **npm**_
+<details>
+<summary><i>com <b>npm</b></i></summary>
 
 ```bash
 # Instalar dependências
@@ -204,7 +217,10 @@ $ npm install
 $ npm start
 ```
 
-_com **yarn**_
+</details>
+
+<details>
+<summary><i>com <b>yarn</b></i></summary>
 
 ```bash
 # Instalar dependências
@@ -214,6 +230,8 @@ $ yarn
 $ yarn start
 
 ```
+
+</details>
 
 > ⚠️ O expo para desenvolvimento iniciará na porta:19002 - Acesse <http://localhost:19002>
 

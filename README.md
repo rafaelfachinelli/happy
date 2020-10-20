@@ -80,8 +80,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 
 <details>
 <summary>Aplicativo</summary>
-</details>
-
+	
 |      Estado      |     Tarefa    |
 |      :---:       |      :---     |
 |:heavy_check_mark:|Criar estrutura do aplicativo com Expo|
@@ -93,6 +92,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 |:heavy_check_mark:|Integração com maps|
 |:heavy_check_mark:|Integração com o servidor Node|
 
+</details>
 </details>
 </div>
 

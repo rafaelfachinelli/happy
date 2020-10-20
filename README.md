@@ -106,7 +106,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
 ---
 ## :movie_camera: **Demonstração**
 
-<p align="center"><b> :computer: WEB DESKTOP </b></p>
+<p align="center"><b> :computer: PLATAFORMA WEB </b></p>
 
 <p align="center">
   <kbd>
@@ -114,7 +114,7 @@ O NLW é uma experiência online com muito conteúdo prático e desafios com dur
   </kbd> 
 </p>
 
-<p align="center"><b> :iphone: WEB MOBILE </b></p>
+<p align="center"><b> :iphone: APLICATIVO </b></p>
 
 <p align="center">
   <kbd>

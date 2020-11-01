@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Happy Ferraz" src="./.github/banner.png">
+<img alt="Happy Ferraz" src=".github/banner.png">
 
 </div>
 

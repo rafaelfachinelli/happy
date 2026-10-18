@@ -1,288 +1,187 @@
-<div align="center">
+<p align="center">
+  <img alt="Happy" src=".github/banner.svg" width="400px"/>
+</p>
 
-<img alt="Happy Ferraz" src=".github/banner.png">
-
-</div>
-
-<p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/happy?style=for-the-badge&color=15D6D6">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/happy?style=for-the-badge&color=15D6D6">
-  <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito por Rafael Fachinelli" src="https://img.shields.io/badge/feito%20por-Rafael Fachinelli-%15B6D6?style=for-the-badge&color=15D6D6">
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/happy?color=3498db&style=for-the-badge">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/happy?color=3498db&style=for-the-badge">
+  <a href="https://rafaelfachinelli.com">
+    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-3498db?style=for-the-badge">
   </a>
-  <img alt="Licença" src="https://img.shields.io/github/license/rafaelfachinelli/happy?style=for-the-badge&color=15D6D6"/>
-<p>
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-3498db?style=for-the-badge">
+</p>
 
 <p align="center">
- <a href="#computer-sobre">Sobre</a> •
- <a href="#memo-roteiro">Roteiro</a> •
- <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#movie_camera-demonstração">Demonstração</a> •
- <a href="#dvd-executar-o-projeto">Executar</a> •
- <a href="#hammer-tecnologias">Tecnologias</a> •
- <a href="#boy-autor">Autor</a> •
- <a href="#page_facing_up-licença">Licença</a>
+  <a href="#eye_speech_bubble-preview">Preview</a> •
+  <a href="#information_source-about">About</a> •
+  <a href="#memo-tasks">Tasks</a> •
+  <a href="#arrow_forward-run">Run</a> •
+  <a href="#hammer_and_wrench-technologies">Technologies</a> •
+  <a href="#boy-author">Author</a> •
+  <a href="#balance_scale-license">License</a>
 </p>
 
 ---
-## :computer: Sobre
 
-Plataforma web, servidor e aplicativo mobile para cadastro e busca de orfanatos no mapa da região de Ferraz de Vasconcelos, São Paulo - Brasil.
-
-Projeto desenvolvido durante a **Next Level Week#3 (NLW)** na avançada **Trilha Omnistack** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
-O NLW é uma experiência online com muito conteúdo prático e desafios com duração de uma semana para conclusão.
-
----
-## :memo: **Roteiro**
+## :eye_speech_bubble: Preview
 
 <div align="center">
-<details>
-<summary>Clique para Visualizar</summary>
-	
-<details>
-<summary>WEB Responsivo</summary>
 
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
-|:heavy_check_mark:|Criar estrutura do projeto web com React|
-|:heavy_check_mark:|Estruturar página inicial|
-|:heavy_check_mark:|Estilizar página inicial|
-|:heavy_check_mark:|Estruturar página de busca no mapa|
-|:heavy_check_mark:|Estilizar página de busca no mapa|
-|:heavy_check_mark:|Criar rotas no React|
-|:heavy_check_mark:|Finalizar página de busca no mapa|
-|:heavy_check_mark:|Criar navegação entre páginas|
-|:heavy_check_mark:|Abstrair componentes|
-|:heavy_check_mark:|Conectar plataforma web com servidor|
-|:heavy_check_mark:|Listar orfanatos no mapa|
-|:heavy_check_mark:|Apresentação dos detalhes do orfanato|
-|:heavy_check_mark:|Criação de orfanato|
-
-</details>
-
-<details>
-<summary>Servidor</summary>
-
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
-|:heavy_check_mark:|Criar estrutura do servidor com Node.js|
-|:heavy_check_mark:|Organizando rotas e parâmetros|
-|:heavy_check_mark:|Criando tabelas no banco de dados|
-|:heavy_check_mark:|Cadastro de orfanatos implementado|
-|:heavy_check_mark:|Configurando controller|
-|:heavy_check_mark:|Listagem de orfanatos|
-|:heavy_check_mark:|Upload de imagens|
-|:heavy_check_mark:|Desenvolvendo views|
-|:heavy_check_mark:|Tratamento de excessões|
-|:heavy_check_mark:|Validação de dados|
-
-</details>
-
-<details>
-<summary>Aplicativo</summary>
-	
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
-|:heavy_check_mark:|Criar estrutura do aplicativo com Expo|
-|:heavy_check_mark:|Organizar projeto|
-|:heavy_check_mark:|Criar rotas|
-|:heavy_check_mark:|Criar componentes|
-|:heavy_check_mark:|Criar páginas e estilos|
-|:heavy_check_mark:|Navegação de páginas|
-|:heavy_check_mark:|Integração com maps|
-|:heavy_check_mark:|Integração com o servidor Node|
-
-</details>
-</details>
-</div>
-
----
-## :triangular_ruler: **Status do Projeto**
-
-<h4 align="center"> 
-	👶 Finalizado.
-</h4>
-
----
-## :movie_camera: **Demonstração**
-
-<p align="center"><b> :computer: PLATAFORMA WEB </b></p>
-
-<p align="center">
-  <kbd>
-    <img style="border-radius: 5px" width="450px" height="250px" alt="Demonstração do Aplicativo Happy Ferraz" src="./.github/demo-desk-map.gif">
-  </kbd> 
-</p>
-
-<p align="center"><b> :iphone: APLICATIVO </b></p>
-
-<p align="center">
-  <kbd>
-    <img style="border-radius: 5px" width="150px" height="250px" alt="Demonstração do Aplicativo Happy Ferraz" src="./.github/demo-mobile-happy.gif">
-  </kbd> 
-</p>
-
-<div align="center">
+|Desktop|Mobile|
+|:---:|:---:|
+|<kbd><img src=".github/demo-desk-map.gif" alt="Happy web"/></kbd>|<kbd><img src=".github/demo-mobile-happy.gif" alt="Happy app" width="260px"/></kbd>|
 
 </div>
 
 ---
-## :dvd: **Executar o Projeto**
 
-### :desktop_computer: **WEB Responsivo**
+## :information_source: About
 
-Entre na pasta [`web/`](web/) e execute os seguintes comandos:
+👶 Web platform, server and mobile app to register and find orphanages on the map of the Ferraz de Vasconcelos region, São Paulo, so people can visit them and brighten the children's day. Each orphanage has its location, photos, instructions and opening hours.
 
-<details>
-<summary><i>com <b>npm</b></i></summary>
-
-```bash
-# Instalar dependências
-$ npm install
-
-# Iniciar servidor de desenvolvimento
-$ npm start
-```
-
-</details>
-
-<details>
-<summary><i>com <b>yarn</b></i></summary>
-
-```bash
-# Instalar dependências
-$ yarn
-
-# Iniciar servidor de desenvolvimento
-$ yarn start
-
-```
-
-</details>
-
-> ⚠️ O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
-
-### :globe_with_meridians: **Servidor**
-
-Entre na pasta [`server/`](server/) e execute os seguintes comandos:
-
-<details>
-<summary><i>com <b>npm</b></i></summary>
-
-```bash
-# Instalar dependências
-$ npm install
-
-# Criar banco de dados
-$ npm typeorm migration:run
-
-# Iniciar servidor
-$ npm dev
-```
-
-</details>
-
-<details>
-<summary><i>com <b>yarn</b></i></summary>
-
-```bash
-# Instalar dependências
-$ yarn
-
-# Criar banco de dados
-$ yarn typeorm migration:run
-
-# Iniciar servidor de desenvolvimento
-$ yarn dev
-```
-
-</details>
-
-> ⚠️ O servidor iniciará na porta:3333 - Acesse <http://localhost:3333>
-
-> ⚠️ O Banco de Dados fica salvo em [`server/src/database/database.sqlite`](server/src/database/database.sqlite)
-
-### :iphone: **Aplicativo**
-
-Entre na pasta [`mobile/`](mobile/) e execute os seguintes comandos:
-
-<details>
-<summary><i>com <b>npm</b></i></summary>
-
-```bash
-# Instalar dependências
-$ npm install
-
-# Iniciar servidor de desenvolvimento
-$ npm start
-```
-
-</details>
-
-<details>
-<summary><i>com <b>yarn</b></i></summary>
-
-```bash
-# Instalar dependências
-$ yarn
-
-# Iniciar servidor de desenvolvimento
-$ yarn start
-
-```
-
-</details>
-
-> ⚠️ O expo para desenvolvimento iniciará na porta:19002 - Acesse <http://localhost:19002>
-
-> ⚠️ No arquivo **api.ts** dentro da pasta [`mobile/src/services/`](mobile/src/services/) é necessário colocar o seu IP local na variável baseURL, mantendo a porta 3333 do servidor.
+Built in 2020 during Rocketseat's Next Level Week #3 (Omnistack track), a one-week online event with practical challenges.
 
 ---
-## :hammer: **Tecnologias**
 
-As seguintes ferramentas foram utilizadas na construção do projeto:
+## :memo: Tasks
+
+<div align="center">
+<details>
+<summary>Click to view</summary>
+
+<details>
+<summary>🌐 Web</summary>
+
+|State|Task|
+|:---:|:---|
+|:heavy_check_mark:|Project structure with React|
+|:heavy_check_mark:|Landing page|
+|:heavy_check_mark:|Orphanages map with Leaflet|
+|:heavy_check_mark:|Routes and navigation|
+|:heavy_check_mark:|Reusable components|
+|:heavy_check_mark:|Integration with the server|
+|:heavy_check_mark:|Orphanage details|
+|:heavy_check_mark:|Create an orphanage|
+
+</details>
+
+<details>
+<summary>🗄️ Server</summary>
+
+|State|Task|
+|:---:|:---|
+|:heavy_check_mark:|Node.js server structure|
+|:heavy_check_mark:|Routes and parameters|
+|:heavy_check_mark:|Database tables with TypeORM migrations|
+|:heavy_check_mark:|Create and list orphanages|
+|:heavy_check_mark:|Image upload with Multer|
+|:heavy_check_mark:|Views (response formatting)|
+|:heavy_check_mark:|Error handling|
+|:heavy_check_mark:|Data validation with Yup|
+
+</details>
+
+<details>
+<summary>📱 Mobile</summary>
+
+|State|Task|
+|:---:|:---|
+|:heavy_check_mark:|Project structure with Expo|
+|:heavy_check_mark:|Routes and navigation|
+|:heavy_check_mark:|Components, pages and styles|
+|:heavy_check_mark:|Map with react-native-maps|
+|:heavy_check_mark:|Create an orphanage with photos|
+
+</details>
+
+</details>
+</div>
+
+---
+
+## :arrow_forward: Run
+
+You need [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/). For the app, install [Expo Go](https://expo.dev/go) on your phone.
+
+### Server
+
+In the [`server/`](server/) folder:
+
+```bash
+# Install dependencies
+yarn
+
+# Create the SQLite database
+yarn typeorm migration:run
+
+# Start the server
+yarn dev
+```
+
+> The server starts at <http://localhost:3333>.
+
+### Web
+
+In the [`web/`](web/) folder:
+
+```bash
+yarn
+yarn start
+```
+
+> The app opens at <http://localhost:3000>.
+
+### Mobile
+
+In the [`mobile/`](mobile/) folder:
+
+```bash
+yarn
+yarn start
+```
+
+> Scan the QR code with Expo Go.
+
+---
+
+## :hammer_and_wrench: Technologies
 
 <div align="center">
 
-|WEB Responsivo|Servidor|Aplicativo|
+|Web|Server|Mobile|
 |:---:|:---:|:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[Node.js]()|[React Native](https://reactnative.dev)|
-|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|[Express]()|[React Navigation](https://reactnavigation.org)|
-|[Typescript](https://www.typescriptlang.org)	|[SQLite3]()|[Expo](https://expo.io)|
-|[ReactJS](https://pt-br.reactjs.org)|[Yup](https://github.com/jquense/yup)|[Axios](https://github.com/axios/axios)|
-|[React Router DOM](https://reactrouter.com/web/guides/quick-start)|[TypeORM](https://typeorm.io)||
-|[React Icons](https://react-icons.github.io/react-icons/)|||
-|[Leaflet](https://leafletjs.com)|||
-|[React Leaflet](https://react-leaflet.js.org)|||
-|[Axios](https://github.com/axios/axios)|||
+|[React](https://react.dev/)|[Node.js](https://nodejs.org/)|[React Native](https://reactnative.dev/)|
+|[TypeScript](https://www.typescriptlang.org/)|[Express](https://expressjs.com/)|[Expo](https://expo.dev/)|
+|[React Router](https://reactrouter.com/)|[TypeORM](https://typeorm.io/)|[React Navigation](https://reactnavigation.org/)|
+|[Leaflet](https://leafletjs.com/)|[SQLite](https://www.sqlite.org/)|[React Native Maps](https://github.com/react-native-maps/react-native-maps)|
+|[Axios](https://axios-http.com/)|[Multer](https://github.com/expressjs/multer)||
+||[Yup](https://github.com/jquense/yup)||
 
 </div>
 
 ---
-## :boy: **Autor**
+
+## :boy: Author
 
 <div align="center">
 
-<a href="https://github.com/rafaelfachinelli">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Foto de Perfil Rafael Fachinelli"/>
- <br />
- <sub><b>Rafael Fachinelli</b></sub></a>
+<a href="https://rafaelfachinelli.com">
+  <img src="https://github.com/rafaelfachinelli.png" width="100px" alt="Rafael Fachinelli"/>
+  <br/>
+  <sub><b>Rafael Fachinelli</b></sub>
+</a>
 
+Tech Lead and software engineer. Get in touch!
 
-Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
-[![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
-[![Itch.io Badge](https://img.shields.io/badge/-rafaelfachinelli-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
-[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
+[![Portfolio](https://img.shields.io/badge/-rafaelfachinelli.com-3498db?style=flat-square&logo=googlechrome&logoColor=white)](https://rafaelfachinelli.com)
+[![LinkedIn](https://img.shields.io/badge/-Rafael_Fachinelli-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfachinelli/)
+[![GitHub](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![E-mail](https://img.shields.io/badge/-rafael.l.a.fachinelli@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.l.a.fachinelli@gmail.com)
 
 </div>
 
 ---
-## :page_facing_up: **Licença**
 
-<div align="center">
-  
-[![License](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/.github/license.svg)](./LICENSE)
+## :balance_scale: License
 
-</div>
+This project is under the [MIT license](./LICENSE).
